@@ -589,5 +589,5 @@ Free to use and modify for educational purposes.
 
 ---
 
-**Kwa maelezo zaidi, wasiliana:** [Your Contact]  
-**For support:** [Your Email/Phone]
+**Kwa maelezo zaidi, wasiliana:** [kiyaboapp@gmail.com]  
+**For support:** kiyaboapp@gmail.com 
