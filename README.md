@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **Date:** November 15, 2025  
-**Location:** Arusha, Tanzania  
+**Location:** Mwanza, Tanzania  
 **Purpose:** Built for KIYABO APP - School Information System
 
 ## Overview
@@ -14,6 +14,7 @@ FastJSON is a lightweight, single-class JSON solution for Microsoft Access VBA t
 - ✅ Dot notation for deep access (`student.address.city`)
 - ✅ Serialization for database storage
 - ✅ SQL-safe output
+- ✅ Nothing is there for Speed or Real JSON parsing, use relevant Libraries. This meant for KIYABO APP unless if useful to your needs
 
 ## Installation
 
